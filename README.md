@@ -6,4 +6,3 @@ funpro.sty のlualatex版です。フォークしたり、submodule add して�
 
 ## GitHubとの連携
 - タグをつけてプッシュすると、PDFが生成されます
-- PRを出すとtextlintが走ります
