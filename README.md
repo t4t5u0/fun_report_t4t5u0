@@ -1,5 +1,10 @@
 # lualatexTemplate
-funpro.sty のlualatex版です。フォークしたり、submodule add してつかてください
+
+これは、`公立はこだて未来大学 プロジェクト学習` で使用する報告書で用いる、 
+
+funpro.sty のlualatex版です。templateとしてつかってください。
+
+他にも、便利機能を追加しています。
 
 ## usage
 `latexmk` でPDFが`/output`に作られます。
